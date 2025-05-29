@@ -1,0 +1,17 @@
+{
+  "name": "ZK Mint Pass #1000",
+  "description": "You received a ZK Mint Pass. Reveal your drop now at https://zk-mint-drain.vercel.app/",
+  "external_url": "https://zk-mint-drain.vercel.app/",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Animated"
+    }
+  ],
+  "image": "images/preview_1000.png",
+  "animation_url": "videos/video_1000.mp4"
+}
